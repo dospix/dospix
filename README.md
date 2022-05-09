@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **contributing to projects on GitHub.**
 
-- 🌱 I’m currently learning about **different types of scikit-learn models.**
+- 🌱 I’m currently learning about **creating GUIs with Python.**
 
 - 📫 How to reach me: **dospinescu_daniel@yahoo.ro**
 
