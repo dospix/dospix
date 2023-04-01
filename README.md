@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **contributing to projects on GitHub.**
 
-- 🌱 I’m currently learning about **databases**
+- 🌱 I’m currently learning about **React and Tailwind**
 
 - 📫 How to reach me: **dospinescu_daniel@yahoo.ro**
 
