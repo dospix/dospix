@@ -1,16 +1,18 @@
 <h1 align="center">Hello! I'm Dospinescu Daniel</h1>
 <h3 align="center">A Python and React programmer</h3>
 
+<be>
+
+- ⏲ I've started learning Python **4 years ago**.
+
+- 🔭 I’m currently working on **my portfolio website**.
+
+- 🌱 I’m currently learning about **AWS**.
+
+- 📫 How to reach me: **dospinescu_daniel@yahoo.ro**.
+
 <br>
-
-- 🔭 I’m currently working on **my portfolio website**
-
-- 🌱 I’m currently learning about **statistics**
-
-- 📫 How to reach me: **dospinescu_daniel@yahoo.ro**
-
-<br>
-<h3>Portfolio website: <a href="https://dospix.pythonanywhere.com" target="_blank">https://dospix.pythonanywhere.com</a></h3>
+<h3>Here is my <a href="https://dospix.pythonanywhere.com" target="_blank">Portfolio website</a></h3>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
