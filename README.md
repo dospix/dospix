@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning about **AWS**.
 
-- 📫 How to reach me: **dospinescu_daniel@yahoo.ro**.
+- 📫 How to reach me: **dospinescu.daniel7@gmail.com**.
 
 <br>
 <h3>Here is my <a href="https://dospix.pythonanywhere.com" target="_blank">Portfolio website</a></h3>
